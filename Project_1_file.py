@@ -14,6 +14,7 @@ grocery_5_net = grocery_5_price * grocery_5_quant
 total = grocery_1_net + grocery_2_net + grocery_3_net + grocery_4_net + grocery_5_net #sets total bill
 total_quant = grocery_1_quant + grocery_2_quant + grocery_3_quant + grocery_4_quant + grocery_5_quant
 unit_avg = total / total_quant #calculates average unit price for various groceries
+unit_avg = round(unit_avg, 2)
 print( f"==={shopper_1_name.title()}=== \nTotal Bill: {total} \nAverage Price per Item: {unit_avg}")
 
 #Shopper 2
