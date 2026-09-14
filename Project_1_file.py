@@ -22,8 +22,8 @@ print( f"==={shopper_1_name.title()}=== \nTotal Bill: {total} \nAverage Price pe
 
 #Shopper 2
 shopper_2_name = "Hercule Poirot"
-grocery_1_price = 5.04
-grocery_1_quant = 1
+grocery_1_price = 3.99
+grocery_1_quant = 2
 grocery_1_net = grocery_1_price * grocery_1_quant
 grocery_2_price = 1.55
 grocery_2_quant = 3
@@ -34,8 +34,8 @@ grocery_3_net = grocery_3_price * grocery_3_quant
 grocery_4_price = 4.25
 grocery_4_quant = 1
 grocery_4_net = grocery_4_price * grocery_4_quant
-grocery_5_price = 10.95
-grocery_5_quant = 2
+grocery_5_price = 12.95
+grocery_5_quant = 1
 grocery_5_net = grocery_5_price * grocery_5_quant
 total = grocery_1_net + grocery_2_net + grocery_3_net + grocery_4_net + grocery_5_net
 total_quant = grocery_1_quant + grocery_2_quant + grocery_3_quant + grocery_4_quant + grocery_5_quant
