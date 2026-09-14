@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53a18533-3475-4466-a21d-f19921730a4a" name="Changes" comment="work session 1, coding">
+    <list default="true" id="53a18533-3475-4466-a21d-f19921730a4a" name="Changes" comment="work session 2, updating to requirements">
       <change beforePath="$PROJECT_DIR$/Project_1_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_1_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1789404815042</updated>
-      <workItem from="1789404816045" duration="2067000" />
+      <workItem from="1789404816045" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="work session 1, coding">
       <option name="closed" value="true" />
@@ -76,7 +76,31 @@
       <option name="project" value="LOCAL" />
       <updated>1789406449570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="work session 2, updating to requirements">
+      <option name="closed" value="true" />
+      <created>1789406917069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789406917069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="work session 2, updating to requirements">
+      <option name="closed" value="true" />
+      <created>1789406922023</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789406922023</updated>
+    </task>
+    <task id="LOCAL-00005" summary="work session 2, updating to requirements">
+      <option name="closed" value="true" />
+      <created>1789406977529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789406977529</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="work session 1, coding" />
-    <option name="LAST_COMMIT_MESSAGE" value="work session 1, coding" />
+    <MESSAGE value="work session 2, updating to requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="work session 2, updating to requirements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
