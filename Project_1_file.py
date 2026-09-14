@@ -21,7 +21,7 @@ unit_avg = total / total_quant
 print( f"==={shopper_1_name.title()}=== \nTotal Bill: {total} \nAverage Price per Item: {unit_avg}")
 
 #Shopper 2
-shopper_2_name = "Hercule Poirot"
+shopper_2_name = "hercule poirot"
 grocery_1_price = 3.99
 grocery_1_quant = 2
 grocery_1_net = grocery_1_price * grocery_1_quant
